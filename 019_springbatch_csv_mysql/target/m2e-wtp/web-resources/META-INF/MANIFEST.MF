@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: 0019_springbatch_csv_mysql
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Pradhi
+Implementation-Vendor-Id: com.springbatch.csv.mysql
+Build-Jdk: 1.8.0_161
+Implementation-URL: http://projects.spring.io/spring-boot/0019_springb
+ atch_csv_mysql/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
